@@ -5,7 +5,7 @@
 
 # demo
 Протестировать проект можно на сайте http://falconnt.ru/ или по адресу http://31.41.43.12/<br><br>
-<center>![alt tag](http://falconnt.ru/demo.png "demo")​</center>
+![alt tag](http://falconnt.ru/demo.png "demo")​
 
 # Установка и настройка library 
 1. Зайдите в панель управления хостингом.
