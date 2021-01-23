@@ -7,8 +7,8 @@
 
 target="_blank"
 
-  <p><a href="http://htmlbook.ru" target="_blank">Ссылка 
-  открывает новое окно на сайт www.htmlbook.ru</a></p> 
+<p><a href="2.html" target="_self">Ссылка откроется в 
+  текущем окне</a></p>
 
 # Установка и настройка library 
 1. Зайдите в панель управления хостингом.
