@@ -12,7 +12,7 @@
 4. Отредактируйте файл connection.php из папки src
 
       $database = 'name_bd';//имя базы данных<br>
-      $user = 'user';//имя пользователя
+      $user = 'user';//имя пользователя<br>
       $password = 'password';//пароль
       
 5. Подключитесь к хостингу по FTP.     
