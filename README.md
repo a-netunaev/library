@@ -11,7 +11,7 @@
 3. Через phpMyAdmin импортируйте базу данных на хостинг из папки BD.
 4. Отредактируйте файл connection.php из папки src
 
-      $database = 'name_bd';//имя базы данных
+      $database = 'name_bd';//имя базы данных<br>
       $user = 'user';//имя пользователя
       $password = 'password';//пароль
       
