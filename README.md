@@ -11,9 +11,9 @@
 3. Через phpMyAdmin импортируйте базу данных на хостинг из папки BD.
 4. Отредактируйте файл connection.php из папки src
 
-      $database = 'name_bd';//имя базы данных<br>
-      $user = 'user';//имя пользователя<br>
-      $password = 'password';//пароль
+      $database = 'name_bd'; //имя базы данных<br>
+      $user = 'user'; //имя пользователя<br>
+      $password = 'password'; //пароль
       
 5. Подключитесь к хостингу по FTP.     
 6. Загрузите все файлы из папок src и img в папку www (или public_html) на хостинге.
